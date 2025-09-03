@@ -1,7 +1,7 @@
 # 📊 Saudi Sales Revenue Dashboard (Arabic)
 
 This project presents my first Arabic-language Power BI dashboard, developed as part of an online Saudi Arabia Data Challenge. The dashboard analyzes sales revenue data across products and regions for January 2025.
-(https://www.linkedin.com/feed/update/urn:li:activity:7366226411239514112?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7366226411239514112%2C7368494917788110848%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287368494917788110848%2Curn%3Ali%3Aactivity%3A7366226411239514112%29)
+[Click here for the Challenge link](https://www.linkedin.com/feed/update/urn:li:activity:7366226411239514112?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7366226411239514112%2C7368494917788110848%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287368494917788110848%2Curn%3Ali%3Aactivity%3A7366226411239514112%29)
 # 🔑 Key Insights:
 
 Top Products:
